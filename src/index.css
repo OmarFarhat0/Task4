@@ -1,0 +1,24 @@
+:root {
+  --primary-color: #3fbbc0;
+}
+
+.bg-primary-color {
+  background-color: var(--primary-color) !important;
+}
+
+.clr-primary-color {
+  color: var(--primary-color) !important;
+}
+
+.w-fit-content {
+  width: fit-content !important;
+}
+
+.h-fit-content {
+  height: fit-content !important;
+}
+
+.hr-width-title {
+  width: 55px !important;
+  border-width: 3.5px !important;
+}

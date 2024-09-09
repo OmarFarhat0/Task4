@@ -1,0 +1,15 @@
+.appointment-btn-section a {
+  border: 2px solid white !important;
+  font-size: 18px;
+}
+
+.appointment-btn-section a:hover {
+  background-color: white !important;
+  color: var(--primary-color);
+}
+
+@media (max-width: 480px) {
+  .appointment-btn-section a {
+    font-size: 16px;
+  }
+}

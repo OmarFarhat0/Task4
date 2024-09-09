@@ -1,0 +1,16 @@
+.info-person-cards .name {
+  font-size: 17px;
+}
+
+.info-person-cards .jop {
+  font-size: 14px;
+}
+
+@media (max-width: 400px) {
+  .row > * {
+    padding: 5px;
+  }
+
+  .card-body {
+  }
+}

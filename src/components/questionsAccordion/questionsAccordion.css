@@ -1,0 +1,17 @@
+.questions-accordion .accordion-item:has(.accordion-button:not(.collapsed)) {
+  border: 1px solid var(--primary-color) !important;
+}
+
+.questions-accordion .accordion-button:not(.collapsed) {
+  color: var(--primary-color) !important;
+  background-color: white !important;
+  box-shadow: none !important;
+}
+
+.questions-accordion button {
+  font-weight: 600;
+}
+
+.questions-accordion button:focus {
+  box-shadow: none !important;
+}

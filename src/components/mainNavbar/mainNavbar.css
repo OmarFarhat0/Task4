@@ -1,0 +1,14 @@
+.main-navbar img {
+  width: 130px;
+}
+
+.main-navbar a {
+  font-size: 13px;
+}
+.main-navbar button {
+  font-size: 14px;
+}
+
+.main-navbar button:focus {
+  box-shadow: none;
+}

@@ -1,0 +1,7 @@
+.feature-cards p {
+  font-size: 14px;
+}
+
+.feature-cards .row > * {
+  padding: calc(var(--bs-gutter-x) * 0.5);
+}

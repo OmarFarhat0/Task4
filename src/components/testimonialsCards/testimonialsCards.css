@@ -1,0 +1,28 @@
+.testimonials-cards .carousel-control-prev,
+.testimonials-cards .carousel-control-next {
+  display: none;
+}
+
+.testimonials-cards .writer {
+  top: -40px;
+  left: 20px;
+}
+
+.testimonials-cards .carousel-indicators {
+  margin-bottom: 10px;
+}
+
+.testimonials-cards .carousel-indicators button {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 1px solid var(--primary-color);
+}
+
+.testimonials-cards .carousel-indicators button {
+  opacity: 1;
+}
+
+.testimonials-cards .carousel-indicators button.active {
+  background-color: var(--primary-color) !important;
+}

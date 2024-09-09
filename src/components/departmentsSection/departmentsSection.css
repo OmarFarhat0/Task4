@@ -1,0 +1,6 @@
+.departments-section button {
+  color: #3a4041;
+}
+.departments-section button.clr-primary-color {
+  border-right: 1px solid var(--primary-color) !important;
+}
